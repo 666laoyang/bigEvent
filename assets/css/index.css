@@ -17,6 +17,7 @@ iframe {
 }
 .layui-side-scroll .user-info {
     height: 60px;
+    border-bottom: 1px solid #282B33;
     text-align: center;
     line-height: 60px;
 }
